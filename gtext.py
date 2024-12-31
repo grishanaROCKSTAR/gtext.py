@@ -1,6 +1,6 @@
 # Gtext.py V alpha 0.2
 # Free and open-source program by grishanya
-# GitHub: 
+# GitHub: https://github.com/grishanaROCKSTAR/gtext.py/
 
 #Goodies:
 
